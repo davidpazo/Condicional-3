@@ -1,18 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package t_3_boletin_0;
+
+package condicionais;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class Condicional {
+public class Condicional3 {
     public double num1;
     public double num2;
     
-    public Condicional(){
+    public Condicional3(){
     }
-    public Condicional(double num1, double num2){
+    public Condicional3(double num1, double num2){
         this.num1=num1;
         this.num2=num2;
     }
